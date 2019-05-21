@@ -1,6 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://Nicholas_Chiarulli:ECSWrdTxNY14RqV7@mememedia-futnn.mongodb.net/test?retryWrites=true",
-  "jwtSecret": "superSecretYay",
-  "githubClientId": "a7a904bcfcad4c35ce47",
-  "githubSecret": "ccbb4cc63fa28cc2bc9ebaeb72584f5472679261"
+  "mongoURI": "",
+  "jwtSecret": "",
+  "githubClientId": "",
+  "githubSecret": ""
 }
